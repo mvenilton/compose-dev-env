@@ -1,0 +1,3 @@
+[submodule "compose-dev-env-sub"]
+	path = compose-dev-env-sub
+	url = https://github.com/mvenilton/compose-dev-env-sub.git
